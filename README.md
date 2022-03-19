@@ -1,1 +1,3 @@
-# -kola
+# Škola
+
+a věci kolem ní
